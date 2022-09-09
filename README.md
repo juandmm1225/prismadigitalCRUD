@@ -1,6 +1,6 @@
 # prismadigitalCRUD
 
-Repositorio usado como ejemplo 
+Repositorio usado como ejemplo  https://github.com/UskoKruM/python-flask-postgresql-rest-api#python--m-virtualenv-env
 
 # Primero, crear un entorno virtual y activarlo:
 
