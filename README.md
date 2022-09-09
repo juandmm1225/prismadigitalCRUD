@@ -1,5 +1,7 @@
 # prismadigitalCRUD
 
+Repositorio usado como ejemplo 
+
 # Primero, crear un entorno virtual y activarlo:
 
 python -m virtualenv env
